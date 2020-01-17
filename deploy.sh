@@ -10,6 +10,4 @@ hugo version
 hugo
 mv public docs
 
-git add docs
-
-git commit -m "rebuilding site $(date)"
+# TODO: add, commit, push the above

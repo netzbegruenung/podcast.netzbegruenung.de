@@ -7,6 +7,10 @@ author:
   name: Marian Steinbach
   email: marian@sendung.de
 
+# while we are in a subfolder
+relativeURLs: true
+#canonifyURLs: true
+
 params:
   contact: marian@sendung.de
   copyright: |
