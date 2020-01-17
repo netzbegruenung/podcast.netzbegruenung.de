@@ -9,7 +9,7 @@ author:
 
 # while we are in a subfolder
 relativeURLs: true
-#canonifyURLs: true
+canonifyURLs: true
 
 params:
   contact: marian@sendung.de
