@@ -1,0 +1,47 @@
+baseURL: "https://podcast.netzbegruenung.de"
+defaultContentLanguage: de
+languageCode: de-de
+title: Der Netzbegrünung Podcast
+theme: zen
+author:
+  name: Marian Steinbach
+  email: marian@sendung.de
+
+params:
+  contact: marian@sendung.de
+  copyright: |
+    Diese Seite und der Podcast stehen unter der
+    [CC-BY-SA 4.0 Lizenz](https://creativecommons.org/licenses/by-sa/4.0/)
+  dateformat: ""
+  favicon: ""
+  feedlinks: "true"
+  icon: ""
+  imageMaxWidth: ""
+  jquery: true
+  languageDir: ltr
+  logo: false
+  footer: "[Netzbegrünung e. V.](https://blog.netzbegruenung.de/)"
+  mobileMenu: true
+  poweredby: false
+  sidebar: true
+  submitted: true
+
+  podcast:
+    title: Der Netzbegrünung Podcast
+    description: >
+      Beim Netzbegrünung Podcast dreht sich alles um die digitalen Dienste von Netzbegrünung,
+      sowie um die Menschen dahinter. Abonniere diesen Podcast, wenn Du Dich bei 
+      BÜNDNIS 90/DIE GRÜNEN oder der GRÜNEN JUGEND engagierst (oder engagieren möchtest)
+      und Du wissen möchtest, wie Du dazu beitragen kannst, die Digitalisierung der GRÜNEN
+      voran zu treiben. 
+    image: netzbegruenung-podcast.png
+    category:
+      name: Technology
+    explicit: false
+    author: Netzbegrünung / Marian Steinbach
+    owner:
+      name: Netzbegrünung / Marian Steinbach
+      email: marian@sendung.de
+    lang: de
+    type: episodic
+    preload: metadata

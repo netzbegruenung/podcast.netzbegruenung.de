@@ -1,0 +1,16 @@
+{{ if $.Param "jquery" -}}
+{{ $jquery := resources.Get "js/jquery.slim.min.js" | fingerprint -}}
+<script defer src="{{ $jquery.RelPermalink }}"></script>
+{{ end -}}
+{{ $umbrella := resources.Get "js/umbrella.min.js" | fingerprint -}}
+<script defer src="{{ $umbrella.RelPermalink }}"></script>
+{{ if $.Param "mobilemenu" -}}
+{{ $mobilemenu := resources.Get "js/mobile.js" | minify | fingerprint -}}
+<script defer src="{{ $mobilemenu.RelPermalink }}"></script>
+{{ end -}}
+{{ if $.Param "contactform" -}}
+{{ $contact := resources.Get "js/contact.js" | minify | fingerprint -}}
+<script defer src="{{ $contact.RelPermalink }}"></script>
+{{ end -}}
+{{ $script := resources.Get "js/script.js" | minify | fingerprint -}}
+<script defer src="{{ $script.RelPermalink }}"></script>
