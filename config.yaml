@@ -1,4 +1,4 @@
-baseURL: "https://podcast.netzbegruenung.de"
+baseURL: "http://podcast.netzbegruenung.de"
 defaultContentLanguage: de
 languageCode: de-de
 title: Der Netzbegrünung Podcast
