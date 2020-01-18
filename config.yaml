@@ -14,7 +14,7 @@ params:
     [CC-BY-SA 4.0 Lizenz](https://creativecommons.org/licenses/by-sa/4.0/)
   dateformat: ""
   favicon: ""
-  feedlinks: "true"
+  feedlinks: false
   icon: ""
   imageMaxWidth: ""
   jquery: true
