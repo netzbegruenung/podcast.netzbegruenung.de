@@ -1,5 +1,5 @@
 baseURL: "http://podcast.netzbegruenung.de"
-defaultContentLanguage: de
+defaultContentLanguage: de-de
 languageCode: de-de
 title: Der Netzbegrünung Podcast
 theme: zen
@@ -13,6 +13,7 @@ params:
     Diese Seite und der Podcast stehen unter der
     [CC-BY-SA 4.0 Lizenz](https://creativecommons.org/licenses/by-sa/4.0/)
   dateformat: ""
+  description: "Der Podcast von, mit und über Netzbegrünung für alle GRÜNEN."
   favicon: ""
   feedlinks: false
   icon: ""
@@ -42,6 +43,6 @@ params:
     owner:
       name: Netzbegrünung / Marian Steinbach
       email: marian@sendung.de
-    lang: de
+    lang: de-de
     type: episodic
     preload: metadata

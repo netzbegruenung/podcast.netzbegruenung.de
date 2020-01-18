@@ -31,6 +31,7 @@
     {{ with .email }}<itunes:email>{{ . }}</itunes:email>{{ end }}
     </itunes:owner>
     {{ end -}}
+    {{ with .Site.Params.Description }}<itunes:subtitle>{{ . }}</itunes:subtitle>{{ end }}
     {{ with .Site.Params.Podcast.Description }}<itunes:summary>{{ . }}</itunes:summary>{{ end }}
     {{ with .Site.Params.Podcast.Author }}<itunes:author>{{ . }}</itunes:author>{{ end }}
     {{ with .Site.Params.Podcast.Type }}<itunes:type>{{ . }}</itunes:type>{{ end }}

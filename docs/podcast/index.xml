@@ -4,7 +4,7 @@
     <link>http://podcast.netzbegruenung.de/podcast/</link>
     <description>Beim Netzbegrünung Podcast dreht sich alles um die digitalen Dienste von Netzbegrünung, sowie um die Menschen dahinter. Abonniere diesen Podcast, wenn Du Dich bei  BÜNDNIS 90/DIE GRÜNEN oder der GRÜNEN JUGEND engagierst (oder engagieren möchtest) und Du wissen möchtest, wie Du dazu beitragen kannst, die Digitalisierung der GRÜNEN voran zu treiben. 
 </description>
-    <language>de</language>
+    <language>de-de</language>
     <managingEditor>marian@sendung.de (Marian Steinbach)</managingEditor>
     <webMaster>marian@sendung.de (Marian Steinbach)</webMaster>
     <lastBuildDate>Sat, 18 Jan 2020 13:00:00 +0000</lastBuildDate>
@@ -17,6 +17,7 @@
     <itunes:name>Netzbegrünung / Marian Steinbach</itunes:name>
     <itunes:email>marian@sendung.de</itunes:email>
     </itunes:owner>
+    <itunes:subtitle>Der Podcast von, mit und über Netzbegrünung für alle GRÜNEN.</itunes:subtitle>
     <itunes:summary>Beim Netzbegrünung Podcast dreht sich alles um die digitalen Dienste von Netzbegrünung, sowie um die Menschen dahinter. Abonniere diesen Podcast, wenn Du Dich bei  BÜNDNIS 90/DIE GRÜNEN oder der GRÜNEN JUGEND engagierst (oder engagieren möchtest) und Du wissen möchtest, wie Du dazu beitragen kannst, die Digitalisierung der GRÜNEN voran zu treiben. 
 </itunes:summary>
     <itunes:author>Netzbegrünung / Marian Steinbach</itunes:author>
