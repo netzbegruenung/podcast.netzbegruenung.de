@@ -4,7 +4,7 @@
 {{ end -}}
 <figure class="podcast">
 <audio controls preload='{{ .Site.Params.Podcast.preload | default "metadata" }}'><source src="{{ $src }}" type="audio/mpeg"></audio>
-<figcaption><a href="{{ $src }}">{{ .Title }}</a> ({{ .Params.podcast.mp3SizeFriendly }})</figcaption>
+<figcaption><a href="{{ $src }}">MP3 Download</a> ({{ .Params.podcast.mp3SizeFriendly }})</figcaption>
 </figure>
 {{ with .Params.podcast.image }}
 {{ $resource := resources.Get .src }}{{ $size := "250x" }}{{ with .width }}{{ $size = (add (string .) "x") }}{{ end }}{{ $image := $resource.Resize $size -}}
