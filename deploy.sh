@@ -10,4 +10,6 @@ hugo version
 hugo
 mv public docs
 
+printf "podcast.netzbegruenung.de" >> docs/CNAME
+
 # TODO: add, commit, push the above
