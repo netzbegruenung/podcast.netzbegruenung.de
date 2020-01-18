@@ -1,15 +1,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Der Netzbegrünung Podcast</title>
-    <link>https://netzbegruenung.github.io/podcast.netzbegruenung.de/podcast/</link>
+    <link>podcast.netzbegruenung.de/podcast/</link>
     <description>Beim Netzbegrünung Podcast dreht sich alles um die digitalen Dienste von Netzbegrünung, sowie um die Menschen dahinter. Abonniere diesen Podcast, wenn Du Dich bei  BÜNDNIS 90/DIE GRÜNEN oder der GRÜNEN JUGEND engagierst (oder engagieren möchtest) und Du wissen möchtest, wie Du dazu beitragen kannst, die Digitalisierung der GRÜNEN voran zu treiben. 
 </description>
     <language>de</language>
     <managingEditor>marian@sendung.de (Marian Steinbach)</managingEditor>
     <webMaster>marian@sendung.de (Marian Steinbach)</webMaster>
     <lastBuildDate>Fri, 17 Jan 2020 09:00:00 +0000</lastBuildDate>
-    <atom:link href="https://netzbegruenung.github.io/podcast.netzbegruenung.de/podcast/index.xml" rel="self" type="application/rss+xml" />
-    <itunes:image href="https://netzbegruenung.github.io/podcast.netzbegruenung.de/cover_1400px.png" />
+    <atom:link href="podcast.netzbegruenung.de/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <itunes:image href="/podcast.netzbegruenung.de/cover_1400px.png" />
     <itunes:category text="Technology">
       
     </itunes:category>
@@ -29,8 +29,8 @@
     <item>
       <title>Folge 1 – Chatbegrünung aus Nutzer:innensicht</title>
       <itunes:title>Folge 1 – Chatbegrünung aus Nutzer:innensicht</itunes:title>
-      <link>https://netzbegruenung.github.io/podcast.netzbegruenung.de/podcast/1-chatbegruenung-aus-nutzer-innensicht/</link>
-      <guid>https://netzbegruenung.github.io/podcast.netzbegruenung.de/podcast/1-chatbegruenung-aus-nutzer-innensicht/</guid>
+      <link>podcast.netzbegruenung.de/podcast/1-chatbegruenung-aus-nutzer-innensicht/</link>
+      <guid>podcast.netzbegruenung.de/podcast/1-chatbegruenung-aus-nutzer-innensicht/</guid>
       <pubDate>Fri, 17 Jan 2020 09:00:00 +0000</pubDate>
       <author>marian@sendung.de (Marian Steinbach)</author>
       <description>&lt;p&gt;Wenn Euch das Gefühl beschleicht, dass für Euren Ortsverband/Kreisverband oder Eure Arbeitsgruppe mal eine bessere Lösung zum Austausch gefunden werden muss, als E-Mail, Mailinglisten und WhatsApp, ist diese Folge genau für Euch.&lt;/p&gt;
@@ -139,7 +139,7 @@
       <itunes:summary>Marian und Nico sprechen über Chatbegrünung, Neuigkeiten und Feedback.</itunes:summary>
       <enclosure url="https://storage.googleapis.com/netzbegruenung-podcast-assets/episodes/001/nb_podcast_001_44khz_16bit_128kbit_cbr.mp3" length="108860317" type="audio/mpeg" />
       <itunes:duration>1:53:38</itunes:duration>
-      <itunes:image href="https://netzbegruenung.github.io/podcast.netzbegruenung.de/cover_1400px.png" />
+      <itunes:image href="/podcast.netzbegruenung.de/cover_1400px.png" />
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>

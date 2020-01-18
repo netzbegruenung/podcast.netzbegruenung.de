@@ -1,4 +1,4 @@
-baseURL: "https://netzbegruenung.github.io/podcast.netzbegruenung.de"
+baseURL: "podcast.netzbegruenung.de"
 defaultContentLanguage: de
 languageCode: de-de
 title: Der Netzbegrünung Podcast
@@ -6,10 +6,6 @@ theme: zen
 author:
   name: Marian Steinbach
   email: marian@sendung.de
-
-# while we are in a subfolder
-relativeURLs: true
-canonifyURLs: true
 
 params:
   contact: marian@sendung.de
