@@ -6,8 +6,8 @@
     <description>  Title  Der Netzbegrünung Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <managingEditor>marian@sendung.de (Netzbegrünung)</managingEditor>
-    <webMaster>marian@sendung.de (Netzbegrünung)</webMaster>
+    <managingEditor>podcast@netzbegruenung.de (Netzbegrünung)</managingEditor>
+    <webMaster>podcast@netzbegruenung.de (Netzbegrünung)</webMaster>
     <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://podcast.netzbegruenung.de/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>Folge 1 – Chatbegrünung aus Nutzer:innensicht</title>
       <link>https://podcast.netzbegruenung.de/podcast/1-chatbegruenung-aus-nutzer-innensicht/</link>
       <pubDate>Sat, 18 Jan 2020 13:00:00 +0000</pubDate>
-      <author>marian@sendung.de (Netzbegrünung)</author>
+      <author>podcast@netzbegruenung.de (Netzbegrünung)</author>
       <guid>https://podcast.netzbegruenung.de/podcast/1-chatbegruenung-aus-nutzer-innensicht/</guid>
       <description>&lt;p&gt;Wenn Euch das Gefühl beschleicht, dass für Euren Ortsverband/Kreisverband oder Eure Arbeitsgruppe mal eine bessere Lösung zum Austausch gefunden werden muss, als E-Mail, Mailinglisten und WhatsApp, ist diese Folge genau für Euch.&lt;/p&gt;
 &lt;p&gt;Denn in dieser Sendung sprechen Marian und Nico über Chatbegrünung, den Chat-Dienst von Netzbegrünung für alle GRÜNEN. Dabei geht es vor allem um die Perspektive der Nutzerinnen und Nutzer.&lt;/p&gt;

@@ -5,10 +5,10 @@ title: Der Netzbegrünung Podcast
 theme: zen
 author:
   name: Netzbegrünung
-  email: marian@sendung.de
+  email: podcast@netzbegruenung.de
 
 params:
-  contact: marian@sendung.de
+  contact: podcast@netzbegruenung.de
   copyright: |
     Diese Seite und der Podcast stehen unter der
     [CC-BY-SA 4.0 Lizenz](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -42,7 +42,7 @@ params:
     author: Netzbegrünung
     owner:
       name: Netzbegrünung
-      email: marian@sendung.de
+      email: podcast@netzbegruenung.de
     lang: de-de
     type: episodic
     preload: metadata
