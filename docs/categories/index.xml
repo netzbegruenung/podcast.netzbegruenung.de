@@ -6,8 +6,8 @@
     <description>  Categories  Der Netzbegrünung Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <managingEditor>marian@sendung.de (Marian Steinbach)</managingEditor>
-    <webMaster>marian@sendung.de (Marian Steinbach)</webMaster>
+    <managingEditor>marian@sendung.de (Netzbegrünung)</managingEditor>
+    <webMaster>marian@sendung.de (Netzbegrünung)</webMaster>
     <atom:link href="https://podcast.netzbegruenung.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
