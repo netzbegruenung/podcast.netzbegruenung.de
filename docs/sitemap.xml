@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://podcast.netzbegruenung.de/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://podcast.netzbegruenung.de/podcast/1-chatbegruenung-aus-nutzer-innensicht/</loc>
     <lastmod>2020-01-18T13:00:00+00:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>https://podcast.netzbegruenung.de/podcast/</loc>
     <lastmod>2020-01-18T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://podcast.netzbegruenung.de/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
